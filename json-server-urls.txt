@@ -1,14 +1,14 @@
 GET ALL USERS
-http://localhost:3000/users
+https://gourav512.github.io/new/users
 
 GET SINGLE USER
-http://localhost:3000/users/1
+https://gourav512.github.io/new/users/1
 
 GET ALL COMPANIES
-http://localhost:3000/companies
+https://gourav512.github.io/new/companies
 
 GET SINGLE COMPANY
-http://localhost:3000/companies/1
+https://gourav512.github.io/new/companies/1
 
 GET ALL USERS OF A COMPANY
 http://localhost:3000/companies/1/users
